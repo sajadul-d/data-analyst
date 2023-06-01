@@ -24,7 +24,7 @@ I am passionate about leveraging my skills to drive data-driven decision-making 
 
 <h3 align="left">Feel free to reach out to me on</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/md-sajadul-islam-dipu-1a2870193/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" Md sajadul islam dipu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/md-sajadul-islam-dipu-1a2870193/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Md Sajadul Islam Dipu"></a>
 <a href="https://kaggle.com/nafisaanjumsamia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="nafisaanjumsamia" height="30" width="40" /></a>
 <a href="https://fb.com/samia.nafisaanjum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="samia.nafisaanjum" height="30" width="40" /></a>
 <a href="https://instagram.com/nafisa_anjum_samia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nafisa_anjum_samia" height="30" width="40" /></a>
