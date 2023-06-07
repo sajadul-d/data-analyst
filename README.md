@@ -1,6 +1,6 @@
 # 👋 Hello! I'm Md Sajadul Islam Dipu
 
-Data Leader | Data Analyst | Business Intelligence Specialist | Business Analyst
+Data Leader | Data Analyst | Business Intelligence Specialist | Business Analyst | ML and Data Science Enthusiast
 
 ## 💻 Skills
 
